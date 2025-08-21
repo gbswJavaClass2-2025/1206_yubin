@@ -9,6 +9,7 @@ public class VariableScopeExample {
 			v2 = v1 - 10;
 		}
 		int v3 = v1 + v2 + 5;
+		// 대충 테스트임 ㅇ
 
 	}
 
