@@ -18,6 +18,6 @@ public class Pizza {
 		System.out.printf("Plain Pizza %d 분 동안 특별히 피자를 굽습니다.", minute);
 	}
 	public void describe() {
-		System.out.printf("Plain Pizza: %d 인치, 씬 %s를 사용한 기본 피자입니다.\n", sizelnlnch, dough);
+		System.out.printf("Plain Pizza: %d 인치, %s를 사용한 기본 피자입니다.\n", sizelnlnch, dough);
 	}
 }
