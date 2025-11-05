@@ -1,4 +1,4 @@
-package exam06;
+ package exam06;
 
 public class BankAccount {
     private String name;
